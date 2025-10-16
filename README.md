@@ -36,6 +36,7 @@ crud_app/
 # Clone the Repository
 
 git clone https://github.com/er-mayankarya/python-basic-project.git
+
 cd core-python-crud
 
 # Run the Application
