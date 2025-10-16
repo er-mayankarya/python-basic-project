@@ -37,7 +37,7 @@ crud_app/
 
 git clone https://github.com/er-mayankarya/python-basic-project.git
 
-cd core-python-crud
+cd python-basic-projec
 
 # Run the Application
 python3 app.py     
